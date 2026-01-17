@@ -1,5 +1,7 @@
 # Air Quality & Presence Station (ESPHome)
 
+![My Minirack Sensor](preview.png)
+
 A standalone, multi-sensor station built on the **ESP8266 NodeMCU V2**. It monitors indoor air quality (PM2.5, CO2, TVOC), temperature, humidity, and detects human presence using mmWave radar.
 
 The device runs a local **Web Server** (accessible via browser) and integrates seamlessly with **Home Assistant**.
