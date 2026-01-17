@@ -24,6 +24,8 @@ A custom 3D printed case has been designed for this project to fit the NodeMCU a
 
 [View 3D designs](https://cad.onshape.com/documents/e66a7972bee8e0914a29a0f6/w/74442f743c7efd9fbcd983ab/e/899fb40ebec1d5741c28e923)
 
+[View on Printables](https://www.printables.com/model/1559845-esphome-multisensor-station-minirack-nodemcu-v2)
+
 ---
 
 
